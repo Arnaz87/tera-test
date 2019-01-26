@@ -1,0 +1,4 @@
+Holder Block {
+{% block holder %}
+{% endblock holder %}
+}

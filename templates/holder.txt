@@ -1,0 +1,4 @@
+{% extends "parent-holder.txt" %}
+{% block holder_block %}
+  Holder Content
+{% endblock holder_block %}

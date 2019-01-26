@@ -1,0 +1,8 @@
+[package]
+name = "tera-test"
+version = "0.1.0"
+authors = ["Arnaud Castellanos Galea <poderosoarnaud@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+tera = { git = "https://github.com/Keats/tera", branch = "v1" }
